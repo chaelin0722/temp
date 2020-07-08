@@ -1,1 +1,1 @@
-# C언어, C++ 개념, 실습 공부하는 곳! 
+### temp repo -> practice pull request, push pull and etc.
